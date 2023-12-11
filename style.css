@@ -28,7 +28,7 @@ header {
     align-items: center;
     justify-content: space-between;
     background: transparent;
-    padding: 22px 16%; /*change padding to px*/
+    padding: 22px 16%; 
     border-bottom: 1px solid transparent;
     transition: all .40s ease;
 }
@@ -87,7 +87,7 @@ section {
     margin: 20px;
     font-size: 70px;
     font-weight: bold;
-    line-height: 1.1;/*remove */
+    line-height: 1.1;
     letter-spacing: 2px;
 }
 
@@ -494,5 +494,5 @@ form textarea {
 
 
 
-/*add the css for JS*/
+
 
